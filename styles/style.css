@@ -17,6 +17,10 @@ h1 {
     text-align: center;
 }
 
+fieldset {
+    border: 0em;
+}
+
 .top-phrase {
     position: absolute;
     top: 4px;
@@ -167,7 +171,7 @@ input {
     margin: 8px 8px;
     box-shadow: border-box;
     align-items: center;
-    border-radius: 3px;
+    border-radius: 4px;
 }
 
 input[type = "submit"] {
